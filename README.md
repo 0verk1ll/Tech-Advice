@@ -4,7 +4,7 @@ SPDX-FileCopyrightText: 2022 0verk1ll
 SPDX-License-Identifier: CC-BY-SA-4.0
 -->
 
-# Tech Advice
+# Welcome
 
 <https://0verk1ll.github.io/TechAdvice/>
 

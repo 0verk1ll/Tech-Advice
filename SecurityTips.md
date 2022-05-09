@@ -10,7 +10,7 @@ If you want to improve your cybersecurity, these three tips will prevent a large
 
 ## 1. Keep Software Updated
 
-When companies find out about security problems in their software, they release updates to fix those problems. Whenever security updates com out, you should update as soon as possible.
+When companies find out about security problems in their software, they release updates to fix those problems. Whenever security updates come out, you should update as soon as possible.
 
 If you don't update your apps and devices, criminals can use the unfixed security problems to break into your device and steal your data.
 
@@ -20,7 +20,7 @@ If you use the same password for multiple websites, when your password is leaked
 
 If you use a unique password on each website, a leaked password will only let a criminal into one of your accounts: not all of them.
 
-Don't worry, it doesn't need to be hard to remember all yoru unique passwords. **Password Managers** can remember your passwords for you and even generate strong passwords automatically.
+Don't worry, it doesn't need to be hard to remember all your unique passwords. **Password Managers** can remember your passwords for you and even generate strong passwords automatically.
 
 To get started, you can use the password manager built into your browser. The password manager is the tool that asks if you want to save your password. If you want a more advanced password manager, I recommend [Bitwarden](./https://bitwarden.com/).
 

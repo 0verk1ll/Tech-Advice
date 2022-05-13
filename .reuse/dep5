@@ -1,0 +1,10 @@
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: Tech Advice
+Upstream-Contact: 0verk1ll <0verk1ll@pm.me>
+Source: https://0verk1ll.github.io/Tech-Advice/
+
+# Sample paragraph, commented out:
+#
+# Files: src/*
+# Copyright: $YEAR $NAME <$CONTACT>
+# License: ...

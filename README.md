@@ -6,7 +6,7 @@ SPDX-License-Identifier: CC-BY-SA-4.0
 
 # Welcome
 
-<https://0verk1ll.github.io/TechAdvice/>
+<https://0verk1ll.github.io/Tech-Advice/>
 
 This project exists to give my friends and family technical advice about security, privacy, freedom, and parental controls. My goal is to keep things simple by suggesting my favorite product in a certain category, not to be comprehensive.
 
